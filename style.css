@@ -264,3 +264,19 @@ ul li a:hover{
     padding-bottom: 10px;
     text-align: center;
 }
+
+.aboutUsContent {
+    width: 1200px;
+    height: auto;
+    margin: auto;
+    color: #fff;
+    position: relative;
+}
+
+.aboutUsContent .h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    padding-left: 20px;
+    margin-top: 9px;
+    letter-spacing: 2px;
+}
